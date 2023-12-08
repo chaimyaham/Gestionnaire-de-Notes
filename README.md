@@ -36,4 +36,5 @@ Remarques.
 
 Les notes doivent être comprises entre 0 et 20.
 Lors de l'ajout de notes, le programme vérifie la validité des notes saisies.
+
 Auteur: Chaimaa Mahy
